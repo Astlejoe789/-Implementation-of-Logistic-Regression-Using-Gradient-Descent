@@ -87,21 +87,27 @@ print(y_prednew)
 
 ## Output:
 Dataset.dtypes:
+
 ![image](https://github.com/user-attachments/assets/d2d0b7fa-6676-4b43-a2a1-14c877804e81)
 
 Dataset:
+
 ![image](https://github.com/user-attachments/assets/22e7897b-7785-4dab-8372-07d4902cb4d4)
 
 Y:
+
 ![image](https://github.com/user-attachments/assets/47190c99-f493-4198-95ac-3af8d7b0aac2)
 
 Accuracy:
+
 ![image](https://github.com/user-attachments/assets/5581bb58-27cf-4c35-a838-6dade3189466)
 
 Y_pred:
+
 ![image](https://github.com/user-attachments/assets/ce29c9f5-c305-46a0-986e-284cd3db36fa)
 
 y_prednew:
+
 ![image](https://github.com/user-attachments/assets/0fde4e9e-e3f8-4705-b0bd-c77860c00bc0)
 
 ## Result:
